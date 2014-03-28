@@ -6,7 +6,6 @@ import json
 from roman import fromRoman
 import time
 from random import random
-import time
 
 SITE_ROOT_URL = 'http://ebooks.library.cornell.edu'
 MAGAZINE_ROOT_URL = '/n/nora'
